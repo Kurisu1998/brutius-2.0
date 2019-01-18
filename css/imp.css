@@ -1,0 +1,150 @@
+.bg-primary{
+  width: 20%;
+}
+.progress{
+  width: 20%;
+
+}
+.progress-bar{
+  width: 100%
+}
+.actions{
+  text-align: center;
+  margin-top: -540px;
+
+}
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
+.joueur_2{
+  text-align: right;
+
+
+}
+#kl{
+  margin-top: -55px;
+  width: 100%;
+}
+#pro{
+  text-align: right;
+  width: 100%;
+transform: rotateY(180deg);
+}
+#n2{
+  text-align: right;
+  margin-left: 1050px;
+
+
+}
+
+
+
+progress{
+  -webkit-appearance: none;
+  -moz-appearance: none;
+   appearance:none;
+
+  border-radius: 10px;
+  -webkit-border-radius:5px;
+  -moz-border-radius: 5px;
+  box-shadow: 400px 0px 10px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+  -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+  font-size: 24px;
+    width:20%;
+
+
+
+}
+
+
+progress#vie-player::-webkit-progress-value {
+  background: red;
+  border-radius: 10px;
+  -webkit-border-radius:5px;
+  -moz-border-radius: 5px;
+  box-shadow: 400px 0px 10px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+  -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+  font-size: 24px;
+
+
+}
+progress#vie_j2::-webkit-progress-value {
+  background: red;
+  border-radius: 10px;
+  -webkit-border-radius:5px;
+  -moz-border-radius: 5px;
+  box-shadow: 400px 0px 10px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+  -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+  font-size: 24px;
+transform: rotateY(180deg);
+
+}
+progress#vie-player::-moz-progress-bar{
+background-color: red;
+border-radius: 10px;
+-webkit-border-radius:5px;
+-moz-border-radius: 5px;
+box-shadow: 400px 0px 10px rgba(0, 0, 0, 0.13);
+-moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+-webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+font-size: 24px;
+
+
+}
+progress#vie_j2::-moz-progress-bar{
+  background-color: red;
+  border-radius: 10px;
+  -webkit-border-radius:5px;
+  -moz-border-radius: 5px;
+  box-shadow: 400px 0px 10px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+  -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+  font-size: 24px;
+transform: rotateY(180deg);
+
+
+}
+progress#vie-player::-webkit-progress-bar {
+   background-color: white;
+   -webkit-border-radius:5px;
+   -moz-border-radius: 5px;
+   box-shadow: 400px 0px 10px rgba(0, 0, 0, 0.13);
+   -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+   -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+   font-size: 24px;
+
+}
+progress#vie_j2::-webkit-progress-bar{
+  background-color: white;
+  -webkit-border-radius:5px;
+  -moz-border-radius: 5px;
+  box-shadow: 400px 0px 10px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+  -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+  font-size: 24px;
+
+transform: rotateY(180deg);
+}
+
+
+#vie_j2{
+
+ width: 100%;
+
+
+}
+.img-avatar{
+  margin-top: 320px;
+  transform: rotateY(180deg);
+}
+.plij2{
+  text-align: right;
+}
